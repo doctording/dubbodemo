@@ -1,0 +1,2 @@
+car1 = com.mubi.provider.spi.CarImp1
+car2 = com.mubi.provider.spi.CarImp2

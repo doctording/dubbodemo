@@ -1,0 +1,2 @@
+dog1 = com.mubi.provider.spi.DogImpl
+com.mubi.provider.spi.DogWrapper
